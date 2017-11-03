@@ -1,4 +1,4 @@
-FreeBSD-Ports
+FreeBSD Ports
 =============
 
 A collection of FreeBSD ports, created from scratch or updated from the official
