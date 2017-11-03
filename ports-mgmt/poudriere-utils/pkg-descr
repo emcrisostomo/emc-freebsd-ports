@@ -1,0 +1,11 @@
+This repository contains some shell scripts that simplifies the management of
+Poudriere jails.  The poudriere-utils script is a thin wrapper around the
+poudriere script that takes care of sensible defaults such as:
+
+  * Creating a default Makefile and package list for each poudriere jail it
+    creates.
+
+  * Using intuitive defaults instead of requiring the user to specify a lot of
+    options.
+
+WWW: https://github.com/emcrisostomo/poudriere-utils
